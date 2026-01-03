@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+**📇 Contact Manager**
+**📖 Description**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Contact Manager is a full-stack MERN application that allows users to securely store, manage, and organize their personal and professional contacts. The application follows industry-standard security practices, ensuring sensitive data such as database credentials and secrets are never exposed.
 
-## Available Scripts
+**🚀 Features**
 
-In the project directory, you can run:
+User Authentication (Register & Login)
 
-### `npm start`
+Secure JWT-based authorization
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Add, Edit, Delete contacts
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Search contacts easily
 
-### `npm test`
+RESTful APIs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Responsive user interface
 
-### `npm run build`
+Secure environment variable configuration
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**🛠️ Tech Stack**
+**Frontend**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React.js
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+HTML5
 
-### `npm run eject`
+CSS3
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+JavaScript
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Axios
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Backend**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Node.js
 
-## Learn More
+Express.js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+MongoDB (Mongoose)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+JSON Web Tokens (JWT)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Screenshot**
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="2240" height="1400" alt="Screenshot 2026-01-03 154345" src="https://github.com/user-attachments/assets/e9181da7-abaf-4928-9760-9704ddfeb304" />
