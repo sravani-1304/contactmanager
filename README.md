@@ -46,4 +46,6 @@ JSON Web Tokens (JWT)
 
 
 **Screenshot**
-<img width="2240" height="1400" alt="Screenshot 2026-01-03 154345" src="https://github.com/user-attachments/assets/6604b6fa-dd32-45d2-b926-a9bcaac76615" />
+
+<img width="2226" height="1256" alt="Screenshot 2026-01-03 165721" src="https://github.com/user-attachments/assets/cd6edae8-5a49-4e6b-990e-06d84dbe04cf" />
+
